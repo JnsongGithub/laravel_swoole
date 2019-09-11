@@ -9,7 +9,7 @@ class TestController extends Controller
 {
     public function index()
 	{
-		echo '这是测试方法';exit();
+		phpinfo();
 		
 		
 	}
